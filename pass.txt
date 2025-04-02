@@ -1,0 +1,5 @@
+swQBiS3bh'b?VXoh-(M6
+
+
+INSERT INTO users (email, password, role) 
+VALUES ('admin@example.com', '$2b$10$35HMmvZTJjxuAzKSpm1HMO8bHGBUOa/Le4JUoM.9KBmVw9z6Uw9Gu', 'admin');
